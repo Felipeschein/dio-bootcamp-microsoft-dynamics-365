@@ -1,2 +1,2 @@
-# dio-bootcamp-microsoft-dynamics-365
-Bootcamp Microsoft Dynamics 365
+# Dio Bootcamp Microsoft Dynamics 365
+Repositório destinado para armazenar projetos e estudos do bootcamp
